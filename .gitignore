@@ -11,3 +11,7 @@ dist/
 # Logs
 logs/
 *.log
+
+embeddings/
+*.pt
+*.npy
