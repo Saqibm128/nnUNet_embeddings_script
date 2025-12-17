@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+*.pyc
+__pycache__/
+.env
+.vscode/
+.DS_Store
+.idea/
+node_modules/
+dist/
+
+# Logs
+logs/
+*.log
